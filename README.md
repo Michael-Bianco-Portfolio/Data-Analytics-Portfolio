@@ -9,14 +9,19 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
     * Python
         * Grey Poupon Lyrics Analysis
  * Education
-     * The University of Scranton: B.S. in Operations Management, Minors in E-Commerce and Business Leadership
  * Certificates
  * Contact
-     * LinkedIn: https://www.linkedin.com/in/mbianco1/
 ## Portfolio Projects
 ### Grey Poupon Lyrics Analysis
 **Code:** Grey Poupon Lyrics Analysis
 
-**Goal:** Uncover patterns and insights related to songs mentioning "Grey Poupon" in their lyrics
+**Goal:** Perform analysis on songs mentioning Grey Poupon in their lyrics to uncover insights such as which artists mention it the most, top ocurrences of rhyming words, etc.
 
-**Description:** Grey Poupon, a brand of Dijon mustard, has the unique characteristic ofScrape, clean and analyze music lyric data related to "Grey Poupon", a brand of Dijon mustard, from online sources. The dataset consists of song titles, artist names and a snippet of lyrics surrounding the mention of "Grey Poupon" in the songs.
+**Description:** Grey Poupon, a brand of Dijon mustard, is used frequently in Hip Hop music as an allegory for status, luxury and class [1]. To provide further insight into its use within the music genre, data is scraped and cleaned from a variety of web sources to perform analysis to illustrate hidden patterns related to its use. The combined dataset consists of song titles, artist names, lyric snippets and word categories (i.e. nouns, verbs, etc.).
+
+**Skills:** Python, Pandas, Jupyter Notebooks, linguistic analysis, exploratory analysis, web scraping, data visualization
+## Education
+The University of Scranton: B.S. in Operations Management, Minors in E-Commerce and Business Leadership
+## Certificates
+## Contact
+LinkedIn Profile: https://www.linkedin.com/in/mbianco1/
