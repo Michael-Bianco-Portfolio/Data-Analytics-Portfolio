@@ -11,6 +11,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
  * [Education](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#education)
  * [Certificates](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#certificates)
  * [Contact](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#contact)
+ * [Citations](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#citations)
 ## Portfolio Projects
 ### Grey Poupon Lyrics Analysis
 **Code:** Grey Poupon Lyrics Analysis
