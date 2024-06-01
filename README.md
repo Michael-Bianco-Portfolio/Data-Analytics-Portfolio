@@ -17,7 +17,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 
 **Goal:** Perform analysis on songs mentioning Grey Poupon in their lyrics to uncover insights and linguistic trends
 
-**Description:** Grey Poupon, a brand of Dijon mustard, is used frequently in Hip Hop music as an allegory for status, luxury and class [1]. To provide further insight into its use within the music genre, data is scraped and cleaned from a variety of web sources to perform analysis to illustrate hidden patterns related to its use. The combined dataset consists of song titles, artist names, lyric snippets and word categories (i.e. nouns, verbs, etc.).
+**Description:** Grey Poupon, a brand of Dijon mustard, is used frequently in Hip Hop music as an allegory for "status, luxury and class" [[1]](). To provide further insight into its use within the music genre, data is scraped and cleaned from a variety of web sources to perform analysis to illustrate hidden patterns related to its use. The combined dataset consists of song titles, artist names, lyric snippets and word categories (i.e. nouns, verbs, etc.).
 
 **Skills:** Python, Pandas, Jupyter Notebooks, linguistic analysis, exploratory analysis, web scraping, data visualization
 
@@ -32,5 +32,7 @@ The University of Scranton: B.S. in Operations Management, Minors in E-Commerce 
 [pandas Essential Training](https://www.linkedin.com/learning/certificates/42160b4137a91c6f0ce2331b576adfef9394f2a6414c5ed02d76183974ea0813) (Issued Aug 2022 - LinkedIn)
 
 [Excel - Introduction to VBA](https://www.linkedin.com/learning/certificates/448a1a3fb4fc11b4aee66d519f9fbc10ff92c09bb60abfdd5e23ecbfaaaf2be1) (Issued Jun 2021 - LinkedIn)
+## Citations
+1. Caswell, Estelle and Sarah Frostenson. “How Grey Poupon Became Hip-Hop’s Favorite Condiment.” Vox, 12 Oct. 2016, www.vox.com/videos/2016/10/12/13250360/grey-poupon-in-hip-hop
 ## Contact
 LinkedIn Profile: https://www.linkedin.com/in/mbianco1/
