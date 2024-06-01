@@ -14,7 +14,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
  * [Contact](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#contact)
 ## Portfolio Projects
 ### Grey Poupon Lyrics Analysis
-**Code:** Grey Poupon Lyrics Analysis
+**Code:** [Grey Poupon Lyrics Analysis](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/grey_poupon_lyrics_analysis.ipynb)
 
 **Goal:** Perform analysis on songs mentioning Grey Poupon in their lyrics to uncover insights and linguistic trends
 
