@@ -4,13 +4,13 @@ Hello and welcome to my portfolio! I am a data analyst professional with a finan
 	
 My projects aim to demonstrate my knowledge and skills for necessary analytical tools and concepts. There are more projects in development and this page will be updated as they are completed. Thank you for your time!
 ## Table of Contents
-* [About]()
-* [Portfolio Projects]()
+* [About](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#about)
+* [Portfolio Projects](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
     * Python
-        * [Grey Poupon Lyrics Analysis]()
- * [Education]()
- * [Certificates]()
- * [Contact]()
+        * [Grey Poupon Lyrics Analysis](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#grey-poupon-lyrics-analysis)
+ * [Education](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#education)
+ * [Certificates](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#certificates)
+ * [Contact](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#contact)
 ## Portfolio Projects
 ### Grey Poupon Lyrics Analysis
 **Code:** Grey Poupon Lyrics Analysis
