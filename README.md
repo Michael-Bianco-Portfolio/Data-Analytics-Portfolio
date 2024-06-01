@@ -22,9 +22,9 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 
 **Skills:** Python, Pandas, Jupyter Notebooks, linguistic analysis, exploratory analysis, web scraping, data visualization
 
-**Technology** Python, Pandas, Matplotlib, Selenium, Beautiful Soup, TextBlob, pyautogui, Jupyter Notebooks
+**Technology:** Python, Pandas, Matplotlib, Selenium, Beautiful Soup, TextBlob, pyautogui, Jupyter Notebooks
 
-**Results** Scraped multiple web sources to extract, clean and organize music data for analysis. Conclusions included total songs found that reference the mustard brand, most common nouns and verbs in the lyric snippets, alternative spellings of "grey" and "poupon" and count of words that rhyme with "poupon" (among others). Visualizations were created to accompany most of the conclusions presented.
+**Results:** Scraped multiple web sources to extract, clean and organize music data for analysis. Conclusions included total songs found that reference the mustard brand, most common nouns and verbs in the lyric snippets, alternative spellings of "grey" and "poupon" and count of words that rhyme with "poupon" (among others). Visualizations were created to accompany most of the conclusions presented.
 ## Education
 The University of Scranton: B.S. in Operations Management, Minors in E-Commerce and Business Leadership
 ## Certificates
