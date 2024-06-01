@@ -17,7 +17,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 
 **Goal:** Perform analysis on songs mentioning Grey Poupon in their lyrics to uncover insights and linguistic trends
 
-**Description:** Grey Poupon, a brand of Dijon mustard, is used frequently in Hip Hop music as an allegory for "status, luxury and class" [[1]](). To provide further insight into its use within the music genre, data is scraped and cleaned from a variety of web sources to perform analysis to illustrate hidden patterns related to its use. The combined dataset consists of song titles, artist names, lyric snippets and word categories (i.e. nouns, verbs, etc.).
+**Description:** Grey Poupon, a brand of Dijon mustard, is used frequently in Hip Hop music as an allegory for "status, luxury and class" [[1]](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#citations). To provide further insight into its use within the music genre, data is scraped and cleaned from a variety of web sources to perform analysis to illustrate hidden patterns related to its use. The combined dataset consists of song titles, artist names, lyric snippets and word categories (i.e. nouns, verbs, etc.).
 
 **Skills:** Python, Pandas, Jupyter Notebooks, linguistic analysis, exploratory analysis, web scraping, data visualization
 
