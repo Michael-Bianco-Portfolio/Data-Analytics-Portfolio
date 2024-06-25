@@ -9,7 +9,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
     * Python
         * [Grey Poupon Lyrics Analysis](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#grey-poupon-lyrics-analysis)
     * Power BI
-        * [North American Breeding Bird Survey Dashboard](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/README.md#north-american-breeding-bird-survey-dashboard)
+        * [North American Breeding Bird Survey Dashboard](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio?tab=readme-ov-file#north-american-breeding-bird-survey-dashboard)
  * [Education](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#education)
  * [Certificates](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#certificates)
  * [Citations](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#citations)
