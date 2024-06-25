@@ -9,7 +9,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
     * Python
         * [Grey Poupon Lyrics Analysis](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#grey-poupon-lyrics-analysis)
     * Power BI
-        * [North American Breeding Bird Survey Dashboard]()
+        * [North American Breeding Bird Survey Dashboard](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/README.md#north-american-breeding-bird-survey-dashboard)
  * [Education](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#education)
  * [Certificates](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#certificates)
  * [Citations](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#citations)
@@ -28,15 +28,15 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 
 **Results:** Scraped multiple web sources to extract, clean and organize music data for analysis. Conclusions included total songs found that reference the mustard brand, most common nouns and verbs in the lyric snippets, alternative spellings of "grey" and "poupon" and count of words that rhyme with "poupon" (among others). Visualizations were created to accompany most of the conclusions presented.
 ### North American Breeding Bird Survey Dashboard
-**Walkthrough File:** [North American Breeding Bird Survey Walkthrough]()
+**Walkthrough File:** [North American Breeding Bird Survey Walkthrough](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/north_american_breeding_bird_survey_walkthrough.pdf)
 
-**Dashboard File:** [North American Breeding Bird Survey Dashboard]()
+**Dashboard File:** [North American Breeding Bird Survey Dashboard](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/north_american_breeding_bird_survey_dashboard.pbix)
 
-**Source Files:** [Source files zip folder]()
+**Source Files:** [Source files zip folder](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/bird_survey_data.zip)
 
 **Goal:** Load, clean, calculate and present data from the North American Breeding Bird Survey Dataset (1966 - 2021) in a Power BI dashboard. Additionally, a Key Performance Indicator is devised to measure the Data Collection Success Rate of the most recent year (the target goal is 90% of samples submitted meeting the survey's data quality criteria).
 
-**Description:** The North American Breeding Bird Survey (BBS) is a cooperative effort between the U.S. Geological Survey's Eastern Ecological Science Center and Environment Canada's Canadian Wildlife Service to monitor the status and trends of North American bird populations [2]. The combined datasets include the latitude + longitude, weather metrics, and bird species observed. Dashboard visuals include an interactive map population map by sample location, top ten highest species observed, line graph for population over time, and a Key Performance Indicator for the Data Collection Success Rate of the most recent year. This dashboard's scope is limited to locations in Pennsylvania.
+**Description:** The North American Breeding Bird Survey (BBS) is a cooperative effort between the U.S. Geological Survey's Eastern Ecological Science Center and Environment Canada's Canadian Wildlife Service to monitor the status and trends of North American bird populations [[2]](). The combined datasets include the latitude + longitude, weather metrics, and bird species observed. Dashboard visuals include an interactive map population map by sample location, top ten highest species observed, line graph for population over time, and a Key Performance Indicator for the Data Collection Success Rate of the most recent year. This dashboard's scope is limited to locations in Pennsylvania.
 
 **Skills:** M language usage, DAX language usage, data cleaning in Power Query, utilizing multiple varieties of Power BI visuals, Key Performance Indicator creation, Power BI measures, DAX calculated columns, debugging
 
@@ -55,5 +55,6 @@ The University of Scranton: B.S. in Operations Management, Minors in E-Commerce 
 [Excel - Introduction to VBA](https://www.linkedin.com/learning/certificates/448a1a3fb4fc11b4aee66d519f9fbc10ff92c09bb60abfdd5e23ecbfaaaf2be1) (Issued Jun 2021 - LinkedIn)
 ## Citations
 1. Caswell, Estelle and Sarah Frostenson. “How Grey Poupon Became Hip-Hop’s Favorite Condiment.” Vox, 12 Oct. 2016, www.vox.com/videos/2016/10/12/13250360/grey-poupon-in-hip-hop
+2. (Keith_Pardieck@usgs.gov), Keith Pardieck. BBS - USGS Patuxent Wildlife Research Center, www.pwrc.usgs.gov/bbs/. Accessed 24 June 2024. 
 ## Contact
 LinkedIn Profile: https://www.linkedin.com/in/mbianco1/
