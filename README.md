@@ -25,6 +25,24 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 **Technology:** Python, Pandas, Matplotlib, Selenium, Beautiful Soup, TextBlob, pyautogui, Jupyter Notebooks
 
 **Results:** Scraped multiple web sources to extract, clean and organize music data for analysis. Conclusions included total songs found that reference the mustard brand, most common nouns and verbs in the lyric snippets, alternative spellings of "grey" and "poupon" and count of words that rhyme with "poupon" (among others). Visualizations were created to accompany most of the conclusions presented.
+### North American Breeding Bird Survey Dashboard
+**Walkthrough File:** [North American Breeding Bird Survey Walkthrough]()
+
+**Dashboard File:** [North American Breeding Bird Survey Dashboard]()
+
+**Source Files:** [Source files zip folder]()
+
+**Goal:** Load, clean, calculate and present data from the North American Breeding Bird Survey Dataset (1966 - 2021) in a Power BI dashboard. Additionally, a Key Performance Indicator is devised to measure the Data Collection Success Rate of the most recent year (the target goal is 90% of samples submitted meeting the survey's data quality criteria).
+
+**Description:** The North American Breeding Bird Survey (BBS) is a cooperative effort between the U.S. Geological Survey's Eastern Ecological Science Center and Environment Canada's Canadian Wildlife Service to monitor the status and trends of North American bird populations [2]. The combined datasets include the latitude + longitude, weather metrics, and bird species observed. Dashboard visuals include an interactive map population map by sample location, top ten highest species observed, line graph for population over time, and a Key Performance Indicator for the Data Collection Success Rate of the most recent year. This dashboard's scope is limited to locations in Pennsylvania.
+
+**Skills:** M language usage, DAX language usage, data cleaning in Power Query, utilizing multiple varieties of Power BI visuals, Key Performance Indicator creation, Power BI measures, DAX calculated columns, debugging
+
+**Technology:** Power BI, M language, DAX language, Power Query
+
+**Results:** Imported, cleaned, and organized raw data in Power Query with the M language. Did further data organization, labelling, and calculations with the DAX language. Created visualizations to summarize data and collection accuracy with filters to allow further exploration by end users. Created a Key Performance Indicator to measure the Data Collection Success Rate for ensuring the accuracy and integrity of the data.
+
+**Note:** Refer to north_american_breeding_bird_survey_walkthrough.pdf for a step-by-step walkthrough of the dashboard's creation. The original dashboard file (north_american_breeding_bird_survey_dashboard.pbix) and the source data (bird_survey_data.zip) is also available in this repository for reference.
 ## Education
 The University of Scranton: B.S. in Operations Management, Minors in E-Commerce and Business Leadership
 ## Certificates
