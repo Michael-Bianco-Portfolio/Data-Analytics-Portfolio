@@ -62,7 +62,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 
 **Results:** Imported, cleaned, and combined datasets into a single database. Calculated a KPI to measure the share of respondents unaware of PHLConnectED to measure the success of community outreach + funding efforts, and calculated it for each ZIP code and school. Also calculated amount of respondent households with less than $50,000 yearly income for each ZIP code and school, as well as the number of respondent households that have either no internet or only mobile internet for each zip code. Created a procedure for standardizing a commonly-used query for simplicity and consistency for other users, along with a view to provide specific data for analysis by Power BI.
 
-**Note:** Refer to Philadelphia_Home_Internet_Access.sql for the code and commentary, and refer to Philadelphia_Home_Internet_Access_Query_Results.pdf for screenshots of the SQL query outputs. The source data (PHL_Internet_School_Data.zip) is also available in this repository for reference.![image](https://github.com/user-attachments/assets/a20369ee-55f3-42cc-aba5-0a5ec7154f5d)
+**Note:** Refer to Philadelphia_Home_Internet_Access.sql for the code and commentary, and refer to Philadelphia_Home_Internet_Access_Query_Results.pdf for screenshots of the SQL query outputs. The source data (PHL_Internet_School_Data.zip) is also available in this repository for reference.
 ## Education
 The University of Scranton: B.S. in Operations Management, Minors in E-Commerce and Business Leadership
 ## Certificates
