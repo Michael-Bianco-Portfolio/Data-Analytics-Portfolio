@@ -11,7 +11,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
     * Power BI
         * [North American Breeding Bird Survey Dashboard](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio?tab=readme-ov-file#north-american-breeding-bird-survey-dashboard)
     * SQL
-    	* [Philadelphia_Home_Internet_Access](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#grey-poupon-lyrics-analysis)
+    	* [Philadelphia_Home_Internet_Access](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#philadelphia-home-internet-access)
  * [Education](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#education)
  * [Certificates](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#certificates)
  * [Citations](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#citations)
