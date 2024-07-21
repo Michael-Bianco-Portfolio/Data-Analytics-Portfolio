@@ -75,6 +75,9 @@ The University of Scranton: B.S. in Operations Management, Minors in E-Commerce 
 [Excel - Introduction to VBA](https://www.linkedin.com/learning/certificates/448a1a3fb4fc11b4aee66d519f9fbc10ff92c09bb60abfdd5e23ecbfaaaf2be1) (Issued Jun 2021 - LinkedIn)
 ## Citations
 1. Caswell, Estelle and Sarah Frostenson. “How Grey Poupon Became Hip-Hop’s Favorite Condiment.” Vox, 12 Oct. 2016, www.vox.com/videos/2016/10/12/13250360/grey-poupon-in-hip-hop
-2. (Keith_Pardieck@usgs.gov), Keith Pardieck. BBS - USGS Patuxent Wildlife Research Center, www.pwrc.usgs.gov/bbs/. Accessed 24 June 2024. 
+2. (Keith_Pardieck@usgs.gov), Keith Pardieck. BBS - USGS Patuxent Wildlife Research Center, www.pwrc.usgs.gov/bbs/. Accessed 24 June 2024.
+3. “Phlconnected: Programs and Initiatives.” City of Philadelphia, 24 Apr. 2024, www.phila.gov/programs/phlconnected/.
+4. “Philadelphia Household Internet Assessment Survey.” OpenDataPhilly, opendataphilly.org/datasets/philadelphia-household-internet-assessment-survey/. Accessed 21 July 2024.
+5. “Schools.” OpenDataPhilly, opendataphilly.org/datasets/schools/. Accessed 21 July 2024.
 ## Contact
 LinkedIn Profile: https://www.linkedin.com/in/mbianco1/
