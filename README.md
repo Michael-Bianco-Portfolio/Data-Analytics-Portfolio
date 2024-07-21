@@ -45,6 +45,24 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 **Results:** Imported, cleaned, and organized raw data in Power Query with the M language. Did further data organization, labelling, and calculations with the DAX language. Created visualizations to summarize data and collection accuracy with filters to allow further exploration by end users. Created a Key Performance Indicator to measure the Data Collection Success Rate for ensuring the accuracy and integrity of the data.
 
 **Note:** Refer to north_american_breeding_bird_survey_walkthrough.pdf for a step-by-step walkthrough of the dashboard's creation. The original dashboard file (north_american_breeding_bird_survey_dashboard.pbix) and the source data (bird_survey_data.zip) is also available in this repository for reference.
+### Philadelphia Home Internet Access
+**SQL File & Commentary:** [Philadelphia_Home_Internet_Access](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/Philadelphia_Home_Internet_Access.sql)
+
+**Query Results File:** [Philadelphia Home Internet Access Query Results](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/Philadelphia_Home_Internet_Access_Query_Results.pdf)
+
+**Source Files:** [Source files zip folder](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/PHL_Internet_School_Data.zip)
+
+**Goal:** Build, clean, and analyze a database for analysis of survey responses regarding availability of internet and awareness of technology assistance programs in the city of Philadelphia. The goal of the analysis is to uncover insights to assist future initiatives for increasing awareness of PHLConnectED, an internet assistance program [[3]](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio?tab=readme-ov-file#citations). 
+
+**Description:** The data utilized is from the 2021 Philadelphia Household Internet Assessment Survey and Schools datasets, provided by OpenDataPhilly [[4]](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio?tab=readme-ov-file#citations) [[5]](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio?tab=readme-ov-file#citations). The 2021 Philadelphia Household Internet Assessment Survey is a survey assessment on home broadband and device access in the City of Philadelphia in 2021, while Schools is a dataset with information regarding to public (School District of Philadelphia), charter, private and archdiocesan schools in the city. After combining, the data available includes internet formats available in respondent households, zip codes of respondents, school names, school zip codes, and yearly household income of respondents, among others.
+
+**Skills:** Exploratory analysis, Transact SQL (T-SQL or TSQL), SQL Server, SQL Server Management Studio 20 (SSMS), Key Performance Indicator (KPI) creation, Common Table Expressions (CTE's), stored procedures, SQL views, join clauses, group by statements, data cleaning, database creation
+
+**Technology:** Transact SQL (T-SQL or TSQL), SQL Server, SQL Server Management Studio 20 (SSMS)
+
+**Results:** Imported, cleaned, and combined datasets into a single database. Calculated a KPI to measure the share of respondents unaware of PHLConnectED to measure the success of community outreach + funding efforts, and calculated it for each ZIP code and school. Also calculated amount of respondent households with less than $50,000 yearly income for each ZIP code and school, as well as the number of respondent households that have either no internet or only mobile internet for each zip code. Created a procedure for standardizing a commonly-used query for simplicity and consistency for other users, along with a view to provide specific data for analysis by Power BI.
+
+**Note:** Refer to Philadelphia_Home_Internet_Access.sql for the code and commentary, and refer to Philadelphia_Home_Internet_Access_Query_Results.pdf for screenshots of the SQL query outputs. The source data (PHL_Internet_School_Data.zip) is also available in this repository for reference.![image](https://github.com/user-attachments/assets/a20369ee-55f3-42cc-aba5-0a5ec7154f5d)
 ## Education
 The University of Scranton: B.S. in Operations Management, Minors in E-Commerce and Business Leadership
 ## Certificates
