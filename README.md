@@ -65,6 +65,20 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 **Results:** Imported, cleaned, and combined datasets into a single database. Calculated a KPI to measure the share of respondents unaware of PHLConnectED to measure the success of community outreach + funding efforts - calculated for each ZIP code and school name. Additionally calculated the amount of respondent households with less than $50,000 yearly income for each ZIP code and school name, as well as the number of respondent households that have either no internet or mobile-only internet for each ZIP code. Created a procedure for standardizing a commonly-used query for simplicity and consistency for other users, along with a view to provide specific data for analysis by Power BI.
 
 **Note:** Refer to Philadelphia_Home_Internet_Access.sql for the code and commentary, and refer to Philadelphia_Home_Internet_Access_Query_Results.pdf for screenshots of the SQL query outputs. The source data (PHL_Internet_School_Data.zip) is also available in this repository for reference.
+### GameStop Form 10-K Data Consolidation
+**Python Files:** [Main File](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/fin_data.py), [Functions Module File](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/fin_data_functions.py)
+
+**Sample PDF File:** [GameStop Form 10-K PDF Sample](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/blob/main/gme_10k_report_20240203.pdf)
+
+**Goal:** Scrape, clean, and calculate data from GameStop Corp.'s Form 10-K, then output formatted Excel files summarizing the targeted report sections.
+
+**Description:** The U.S. Securities and Exchange Commission (SEC) requires publicly traded companies to submit a comprehensive, annual report (titled "Form 10-K") for summarizing their operations, financial condition, and performance. This report provides fundamental information for prospective investors to assist in making informed investment decisions. The reports are most commonly published in PDF formats, so this Python program will scrape the files for relevant information, then output as Excel files in a standardized format. The sample will utilize a sample Form 10-K for GameStop Corp. (stock ticker GME)
+
+**Skills:** Python, PDF file scraping, Python functions, Python for loops, Python lists, Python modules
+
+**Technology:** Python, Pandas, PyPDF, Microsoft Excel
+
+**Results:** Wrote Python functions for extracting, cleaning, organizing, and categorizing data from PDF reports. Exported calculated results to individual Excel files for each category: Consolidated Balance Sheets, Consolidated Statements of Operations, and Consolidated Statements of Cash Flows.
 ## Education
 The University of Scranton: B.S. in Operations Management, Minors in E-Commerce and Business Leadership
 ## Certificates
