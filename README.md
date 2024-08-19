@@ -73,7 +73,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 
 **Goal:** Scrape, clean, and calculate data from GameStop Corp.'s Form 10-K, then output formatted Excel files summarizing the targeted report sections.
 
-**Description:** The U.S. Securities and Exchange Commission (SEC) requires publicly traded companies to submit a comprehensive, annual report (titled "Form 10-K") for summarizing their operations, financial condition, and performance. This report provides fundamental information for prospective investors to assist in making informed investment decisions. The reports are most commonly published in PDF formats, so this Python program will scrape the files for relevant information, then output as Excel files in a standardized format. The sample will utilize a sample Form 10-K for GameStop Corp. (stock ticker GME)
+**Description:** The U.S. Securities and Exchange Commission (SEC) requires publicly traded companies to submit a comprehensive, annual report (titled "Form 10-K") for summarizing their operations, financial condition, and performance. This report provides fundamental information for prospective investors to assist in making informed investment decisions. The reports are most commonly published in PDF formats, so this Python program will scrape the files for relevant information, then output as Excel files in a standardized format. The sample will utilize a sample Form 10-K for GameStop Corp. (stock ticker GME).
 
 **Skills:** Python, PDF file scraping, Python functions, Python for loops, Python lists, Python modules
 
