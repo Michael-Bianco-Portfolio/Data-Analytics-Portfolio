@@ -8,7 +8,7 @@ My projects aim to demonstrate my knowledge and skills for necessary analytical 
 * [Portfolio Projects](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
     * Python
         * [Grey Poupon Lyrics Analysis](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#grey-poupon-lyrics-analysis)
-        * [GameStop Form 10-K PDF Sample](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#gamestop-form-10-k-data-consolidation)
+        * [GameStop Form 10-K Data Consolidation](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio/tree/main?tab=readme-ov-file#gamestop-form-10-k-data-consolidation)
     * Power BI
         * [North American Breeding Bird Survey Dashboard](https://github.com/Michael-Bianco-Portfolio/Data-Analytics-Portfolio?tab=readme-ov-file#north-american-breeding-bird-survey-dashboard)
     * SQL
